@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Guess a Random Number</string>
+    <string name="feild">enter value 0–1000</string>
+    <string name="go">Try</string>
+    <string name="again">Try anouther number</string>
+    <string name="correct">correct!!</string>
+    <string name="close">you are very close</string>
+    <string name="smaller">the value you enter smaller than the Rand</string>
+    <string name="grater">the value you enter grater than the Rand</string>
+</resources>
